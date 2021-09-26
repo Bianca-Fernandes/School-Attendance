@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "School-Attendance",
+    "slug": "snack-c4f0829c-e8ce-40bd-bfd5-35764cd6a3e2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is an application where teachers can see the list of students, mark present/absent for a particular date. The date for that day gets stored in a database and on submitting the teachers can see a total number of students present or absent on that day.",
+    "githubUrl": "https://github.com/Bianca-Fernandes/School-Attendance"
+  }
+}
